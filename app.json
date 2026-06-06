@@ -1,1 +1,17 @@
 
+{
+  "expo": {
+    "name": "AIWA Remote",
+    "slug": "app-aiwaremote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#050505"
+    },
+    "android": {
+      "package": "com.adconsultoria.aiwaremote"
+    }
+  }
+}
